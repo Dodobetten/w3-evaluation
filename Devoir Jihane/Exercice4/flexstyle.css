@@ -1,0 +1,76 @@
+#rectBlanc{
+    height: 100px;
+    background-color: white;   
+    display: flex;
+   flex-direction: row;
+       justify-content: space-between;
+       align-items: center;
+   }
+   
+   .rectRouge{
+    height: 40px;
+   background-color: red;
+   width: 150px;       
+   }
+   
+   #rectTrans{
+       display: flex;
+       flex-direction: row;
+   justify-content: space-around;
+       margin-bottom: 20px;
+       margin-top: 20px;
+   }
+   
+   .rectJaune{
+    height: 40px;
+   background-color: yellow;
+   width: 350px;       
+   }
+   
+   #rectTrans2{
+       display: flex;
+       flex-direction: row;
+       justify-content: space-around;
+   }
+   
+   .rectVert{
+    height: 140px;
+   background-color: yellowgreen;
+   width: 350px;       
+   }
+   
+   .rectRose{
+    height: 40px;
+   background-color: pink;
+   width: 100px;   
+       margin: 10px;
+   }
+   
+   #rectVertParent{
+       display: flex;
+       flex-direction: column;
+       justify-content: space-around;
+       align-items: center;
+       
+   }
+   
+   #rectVertParent2{
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+       align-items: center;
+       
+   }
+   
+   #rectBleu{
+       display: flex;
+       background-color: blue;
+       flex-direction: column;
+       padding: 10px;
+       
+   }
+   
+   
+   
+   
+   

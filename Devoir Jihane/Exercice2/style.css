@@ -1,0 +1,57 @@
+table {
+    width: 800px;
+    height: 600px;
+    text-align: center;
+    }
+
+table {
+    border-spacing: 0px;
+}
+
+
+#head {
+    background-color:white;
+}
+
+#foot {
+    background-color: rgb(219, 206, 206);
+    color: white
+    
+}
+
+#ligne2 {
+    background-color:rgb(223, 213, 213);
+}
+
+#ligne3 {
+    background-color: white;
+}
+
+#ligne4 {
+    background-color:rgb(140, 195, 247);
+}
+
+#ligne5 {
+    background-color:rgb(201, 189, 189);
+}
+
+#ligne6 {
+    background-color:rgb(129, 199, 129);
+}
+
+#ligne7 {
+    background-color:rgb(151, 73, 97);
+}
+
+#ligne8 {
+    background-color:rgb(233, 233, 134);
+}
+
+#ligne9 {
+    background-color:rgb(89, 185, 189);
+}
+
+#ligne10 {
+    background-color: white;
+}
+
